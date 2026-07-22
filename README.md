@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/asiffahmadd/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/asiffahmadd/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/asiffahmadd/Leetcode/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/asiffahmadd/Leetcode/tree/master/0043-multiply-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/asiffahmadd/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/asiffahmadd/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/asiffahmadd/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/asiffahmadd/Leetcode/tree/master/0048-rotate-image) |
 ## Array
 |  |
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/asiffahmadd/Leetcode/tree/master/0029-divide-two-integers) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/asiffahmadd/Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
