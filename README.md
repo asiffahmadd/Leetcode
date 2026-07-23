@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/asiffahmadd/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0021-merge-two-sorted-lists](https://github.com/asiffahmadd/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/asiffahmadd/Leetcode/tree/master/0043-multiply-strings) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/asiffahmadd/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
