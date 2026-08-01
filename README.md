@@ -15,6 +15,7 @@
 | [0125-valid-palindrome](https://github.com/asiffahmadd/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/asiffahmadd/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/asiffahmadd/Leetcode/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/asiffahmadd/Leetcode/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,4 +96,5 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asiffahmadd/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/asiffahmadd/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
