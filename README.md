@@ -17,6 +17,7 @@
 | [0344-reverse-string](https://github.com/asiffahmadd/Leetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/asiffahmadd/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/asiffahmadd/Leetcode/tree/master/0796-rotate-string) |
+| [1528-shuffle-string](https://github.com/asiffahmadd/Leetcode/tree/master/1528-shuffle-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asiffahmadd/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/asiffahmadd/Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/asiffahmadd/Leetcode/tree/master/0048-rotate-image) |
+| [1528-shuffle-string](https://github.com/asiffahmadd/Leetcode/tree/master/1528-shuffle-string) |
 ## Trie
 |  |
 | ------- |
