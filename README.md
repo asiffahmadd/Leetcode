@@ -18,6 +18,7 @@
 | [0709-to-lower-case](https://github.com/asiffahmadd/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/asiffahmadd/Leetcode/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/asiffahmadd/Leetcode/tree/master/1528-shuffle-string) |
+| [3794-reverse-string-prefix](https://github.com/asiffahmadd/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asiffahmadd/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/asiffahmadd/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/asiffahmadd/Leetcode/tree/master/0344-reverse-string) |
+| [3794-reverse-string-prefix](https://github.com/asiffahmadd/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Matrix
 |  |
 | ------- |
