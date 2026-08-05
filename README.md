@@ -19,6 +19,7 @@
 | [0796-rotate-string](https://github.com/asiffahmadd/Leetcode/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/asiffahmadd/Leetcode/tree/master/1528-shuffle-string) |
 | [3794-reverse-string-prefix](https://github.com/asiffahmadd/Leetcode/tree/master/3794-reverse-string-prefix) |
+| [3798-largest-even-number](https://github.com/asiffahmadd/Leetcode/tree/master/3798-largest-even-number) |
 ## Dynamic Programming
 |  |
 | ------- |
