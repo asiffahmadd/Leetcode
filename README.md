@@ -18,6 +18,7 @@
 | [0709-to-lower-case](https://github.com/asiffahmadd/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/asiffahmadd/Leetcode/tree/master/0796-rotate-string) |
 | [1528-shuffle-string](https://github.com/asiffahmadd/Leetcode/tree/master/1528-shuffle-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asiffahmadd/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/asiffahmadd/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/asiffahmadd/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/asiffahmadd/Leetcode/tree/master/3798-largest-even-number) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/asiffahmadd/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/asiffahmadd/Leetcode/tree/master/0022-generate-parentheses) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asiffahmadd/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asiffahmadd/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/asiffahmadd/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/asiffahmadd/Leetcode/tree/master/0344-reverse-string) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asiffahmadd/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3794-reverse-string-prefix](https://github.com/asiffahmadd/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Matrix
 |  |
@@ -105,4 +108,8 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asiffahmadd/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/asiffahmadd/Leetcode/tree/master/0796-rotate-string) |
+## Greedy
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asiffahmadd/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
