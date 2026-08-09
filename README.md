@@ -27,6 +27,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/asiffahmadd/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/asiffahmadd/Leetcode/tree/master/0022-generate-parentheses) |
+| [1140-stone-game-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asiffahmadd/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -46,6 +47,7 @@
 | [0029-divide-two-integers](https://github.com/asiffahmadd/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/asiffahmadd/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/asiffahmadd/Leetcode/tree/master/0048-rotate-image) |
+| [1140-stone-game-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1140-stone-game-ii) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asiffahmadd/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/asiffahmadd/Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/asiffahmadd/Leetcode/tree/master/0048-rotate-image) |
+| [1140-stone-game-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1140-stone-game-ii) |
 | [1528-shuffle-string](https://github.com/asiffahmadd/Leetcode/tree/master/1528-shuffle-string) |
 ## Trie
 |  |
@@ -112,4 +115,20 @@
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asiffahmadd/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
