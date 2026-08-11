@@ -41,6 +41,7 @@
 | [0013-roman-to-integer](https://github.com/asiffahmadd/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/asiffahmadd/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/asiffahmadd/Leetcode/tree/master/0242-valid-anagram) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asiffahmadd/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0048-rotate-image](https://github.com/asiffahmadd/Leetcode/tree/master/0048-rotate-image) |
 | [1140-stone-game-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1140-stone-game-ii) |
 | [1528-shuffle-string](https://github.com/asiffahmadd/Leetcode/tree/master/1528-shuffle-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asiffahmadd/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Trie
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [0016-3sum-closest](https://github.com/asiffahmadd/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/asiffahmadd/Leetcode/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/asiffahmadd/Leetcode/tree/master/0242-valid-anagram) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asiffahmadd/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
 |  |
 | ------- |
