@@ -61,6 +61,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asiffahmadd/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/asiffahmadd/Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/asiffahmadd/Leetcode/tree/master/0048-rotate-image) |
+| [0136-single-number](https://github.com/asiffahmadd/Leetcode/tree/master/0136-single-number) |
 | [1140-stone-game-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1140-stone-game-ii) |
 | [1528-shuffle-string](https://github.com/asiffahmadd/Leetcode/tree/master/1528-shuffle-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asiffahmadd/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/asiffahmadd/Leetcode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/asiffahmadd/Leetcode/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
