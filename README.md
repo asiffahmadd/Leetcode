@@ -65,6 +65,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asiffahmadd/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/asiffahmadd/Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/asiffahmadd/Leetcode/tree/master/0048-rotate-image) |
+| [0084-largest-rectangle-in-histogram](https://github.com/asiffahmadd/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/asiffahmadd/Leetcode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/asiffahmadd/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [1140-stone-game-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1140-stone-game-ii) |
@@ -180,4 +181,16 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/asiffahmadd/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/asiffahmadd/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/asiffahmadd/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/asiffahmadd/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
