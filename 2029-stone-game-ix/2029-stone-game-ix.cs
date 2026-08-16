@@ -3,8 +3,11 @@ public class Solution {
         int c0 = 0, c1 = 0, c2 = 0;
         foreach (int s in stones) {
             int r = s % 3;
-            if (r == 0) c0++;
-            else if (r == 1) c1++;
+            if (r == 0)
+             c0++;
+            else if
+             (r == 1)
+              c1++;
             else c2++;
         }
         
