@@ -31,6 +31,7 @@
 | [0022-generate-parentheses](https://github.com/asiffahmadd/Leetcode/tree/master/0022-generate-parentheses) |
 | [1140-stone-game-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/asiffahmadd/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/asiffahmadd/Leetcode/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asiffahmadd/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -57,6 +58,7 @@
 | [0149-max-points-on-a-line](https://github.com/asiffahmadd/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [1140-stone-game-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/asiffahmadd/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/asiffahmadd/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/asiffahmadd/Leetcode/tree/master/2029-stone-game-ix) |
 ## Array
 |  |
@@ -73,6 +75,7 @@
 | [0149-max-points-on-a-line](https://github.com/asiffahmadd/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [1140-stone-game-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1140-stone-game-ii) |
 | [1528-shuffle-string](https://github.com/asiffahmadd/Leetcode/tree/master/1528-shuffle-string) |
+| [1563-stone-game-v](https://github.com/asiffahmadd/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/asiffahmadd/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/asiffahmadd/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/asiffahmadd/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -152,6 +155,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/asiffahmadd/Leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/asiffahmadd/Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/asiffahmadd/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
