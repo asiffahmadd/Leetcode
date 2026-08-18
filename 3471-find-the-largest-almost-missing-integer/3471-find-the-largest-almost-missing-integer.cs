@@ -5,7 +5,6 @@ public class Solution
         int n = nums.Length;
         int[] count = new int[51];
 
-        // Check every subarray of size k
         for (int i = 0; i <= n - k; i++)
         {
             bool[] seen = new bool[51];
@@ -14,7 +13,6 @@ public class Solution
             {
                 int value = nums[j];
 
-                // Count a number only once per subarray
                 if (!seen[value])
                 {
                     count[value]++;
@@ -23,7 +21,6 @@ public class Solution
             }
         }
 
-        // Find largest number appearing in exactly one subarray
         for (int i = 50; i >= 0; i--)
         {
             if (count[i] == 1)
