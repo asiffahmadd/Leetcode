@@ -15,16 +15,14 @@ public class Solution
 
                 if (!seen[value])
                 {
-                    count[value]++;
-                    seen[value] = true;
+                    count[value]++; seen[value] = true;
                 }
             }
         }
 
         for (int i = 50; i >= 0; i--)
         {
-            if (count[i] == 1)
-                return i;
+            if (count[i] == 1)return i;
         }
 
         return -1;
