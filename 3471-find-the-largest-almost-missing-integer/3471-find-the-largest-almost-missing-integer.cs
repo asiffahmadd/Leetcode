@@ -2,8 +2,7 @@ public class Solution
 {
     public int LargestInteger(int[] nums, int k)
     {
-        int n = nums.Length;
-        int[] count = new int[51];
+        int n = nums.Length; int[] count = new int[51];
 
         for (int i = 0; i <= n - k; i++)
         {
