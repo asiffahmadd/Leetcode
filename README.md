@@ -24,6 +24,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/asiffahmadd/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asiffahmadd/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/asiffahmadd/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/asiffahmadd/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3794-reverse-string-prefix](https://github.com/asiffahmadd/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/asiffahmadd/Leetcode/tree/master/3798-largest-even-number) |
 ## Dynamic Programming
@@ -51,6 +52,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asiffahmadd/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/asiffahmadd/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/asiffahmadd/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/asiffahmadd/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [1927-sum-game](https://github.com/asiffahmadd/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/asiffahmadd/Leetcode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asiffahmadd/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/asiffahmadd/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
 | ------- |
@@ -226,6 +229,7 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/asiffahmadd/Leetcode/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/asiffahmadd/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -238,4 +242,8 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/asiffahmadd/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/asiffahmadd/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
