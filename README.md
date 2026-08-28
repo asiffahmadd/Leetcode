@@ -25,6 +25,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asiffahmadd/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/asiffahmadd/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/asiffahmadd/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/asiffahmadd/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3794-reverse-string-prefix](https://github.com/asiffahmadd/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/asiffahmadd/Leetcode/tree/master/3798-largest-even-number) |
 ## Dynamic Programming
@@ -107,6 +108,7 @@
 | [0125-valid-palindrome](https://github.com/asiffahmadd/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/asiffahmadd/Leetcode/tree/master/0344-reverse-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asiffahmadd/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/asiffahmadd/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3794-reverse-string-prefix](https://github.com/asiffahmadd/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Matrix
 |  |
@@ -246,4 +248,5 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/asiffahmadd/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/asiffahmadd/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
