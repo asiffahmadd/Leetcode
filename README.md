@@ -275,4 +275,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/asiffahmadd/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Database
+|  |
+| ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/asiffahmadd/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 <!---LeetCode Topics End-->
