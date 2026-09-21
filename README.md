@@ -87,6 +87,7 @@
 | [0027-remove-element](https://github.com/asiffahmadd/Leetcode/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/asiffahmadd/Leetcode/tree/master/0048-rotate-image) |
 | [0084-largest-rectangle-in-histogram](https://github.com/asiffahmadd/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/asiffahmadd/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/asiffahmadd/Leetcode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/asiffahmadd/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [1140-stone-game-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1140-stone-game-ii) |
@@ -116,6 +117,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asiffahmadd/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/asiffahmadd/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asiffahmadd/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/asiffahmadd/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/asiffahmadd/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/asiffahmadd/Leetcode/tree/master/0344-reverse-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/asiffahmadd/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -133,6 +135,7 @@
 | [0015-3sum](https://github.com/asiffahmadd/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/asiffahmadd/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/asiffahmadd/Leetcode/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/asiffahmadd/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/asiffahmadd/Leetcode/tree/master/0242-valid-anagram) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/asiffahmadd/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asiffahmadd/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
