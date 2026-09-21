@@ -11,14 +11,19 @@ public class Solution
 
             if (nums[mid] < nums[r])
             {
+                // Minimum left side me bhi ho sakta hai
+                // mid khud bhi minimum ho sakta hai
                 r = mid;
             }
             else if (nums[mid] > nums[r])
             {
+                // Minimum definitely right side me hai
                 l = mid + 1;
             }
             else
             {
+                // nums[mid] == nums[r]
+                // Duplicate ki wajah se decide nahi kar sakte
                 r--;
             }
         }
