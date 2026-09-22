@@ -93,6 +93,7 @@
 | [0149-max-points-on-a-line](https://github.com/asiffahmadd/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/asiffahmadd/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/asiffahmadd/Leetcode/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/asiffahmadd/Leetcode/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1140-stone-game-ii) |
 | [1528-shuffle-string](https://github.com/asiffahmadd/Leetcode/tree/master/1528-shuffle-string) |
 | [1563-stone-game-v](https://github.com/asiffahmadd/Leetcode/tree/master/1563-stone-game-v) |
@@ -190,6 +191,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/asiffahmadd/Leetcode/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
