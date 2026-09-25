@@ -17,6 +17,7 @@
 | [0344-reverse-string](https://github.com/asiffahmadd/Leetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/asiffahmadd/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/asiffahmadd/Leetcode/tree/master/0796-rotate-string) |
+| [1096-brace-expansion-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/asiffahmadd/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/asiffahmadd/Leetcode/tree/master/1528-shuffle-string) |
 | [1927-sum-game](https://github.com/asiffahmadd/Leetcode/tree/master/1927-sum-game) |
@@ -52,6 +53,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/asiffahmadd/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0149-max-points-on-a-line](https://github.com/asiffahmadd/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0242-valid-anagram](https://github.com/asiffahmadd/Leetcode/tree/master/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/asiffahmadd/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/asiffahmadd/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asiffahmadd/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -144,6 +146,7 @@
 | [0018-4sum](https://github.com/asiffahmadd/Leetcode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/asiffahmadd/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/asiffahmadd/Leetcode/tree/master/0242-valid-anagram) |
+| [1096-brace-expansion-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/asiffahmadd/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asiffahmadd/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
@@ -151,6 +154,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/asiffahmadd/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/asiffahmadd/Leetcode/tree/master/0022-generate-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -248,6 +252,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/asiffahmadd/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1096-brace-expansion-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -283,6 +288,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/asiffahmadd/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
