@@ -20,6 +20,7 @@
 | [1096-brace-expansion-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/asiffahmadd/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/asiffahmadd/Leetcode/tree/master/1528-shuffle-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/asiffahmadd/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/asiffahmadd/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/asiffahmadd/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/asiffahmadd/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -55,6 +56,7 @@
 | [0242-valid-anagram](https://github.com/asiffahmadd/Leetcode/tree/master/0242-valid-anagram) |
 | [1096-brace-expansion-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/asiffahmadd/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/asiffahmadd/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/asiffahmadd/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asiffahmadd/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/asiffahmadd/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -100,6 +102,7 @@
 | [1140-stone-game-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1140-stone-game-ii) |
 | [1528-shuffle-string](https://github.com/asiffahmadd/Leetcode/tree/master/1528-shuffle-string) |
 | [1563-stone-game-v](https://github.com/asiffahmadd/Leetcode/tree/master/1563-stone-game-v) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/asiffahmadd/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2029-stone-game-ix](https://github.com/asiffahmadd/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/asiffahmadd/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/asiffahmadd/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
