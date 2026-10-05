@@ -17,6 +17,7 @@
 | [0344-reverse-string](https://github.com/asiffahmadd/Leetcode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/asiffahmadd/Leetcode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/asiffahmadd/Leetcode/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/asiffahmadd/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/asiffahmadd/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/asiffahmadd/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -257,6 +258,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/asiffahmadd/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0856-score-of-parentheses](https://github.com/asiffahmadd/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/asiffahmadd/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/asiffahmadd/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -320,6 +322,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/asiffahmadd/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/asiffahmadd/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/asiffahmadd/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
