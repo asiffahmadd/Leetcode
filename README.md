@@ -320,6 +320,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/asiffahmadd/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0620-not-boring-movies](https://github.com/asiffahmadd/Leetcode/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/asiffahmadd/Leetcode/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/asiffahmadd/Leetcode/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/asiffahmadd/Leetcode/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/asiffahmadd/Leetcode/tree/master/1251-average-selling-price) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/asiffahmadd/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
