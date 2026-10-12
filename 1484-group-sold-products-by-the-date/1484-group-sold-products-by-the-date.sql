@@ -1,7 +1,12 @@
-# Write your MySQL query statement below
 
-DELETE p1
-FROM Person p1
-JOIN Person p2
-    ON p1.email = p2.email
-   AND p1.id > p2.id;
+SELECT
+    sell_date,
+    COUNT(DISTINCT product) AS num_sold,
+    GROUP_CONCAT(
+        DISTINCT product
+        ORDER BY product
+        SEPARATOR ','
+    ) AS products
+FROM Activities
+GROUP BY sell_date
+ORDER BY sell_date;
