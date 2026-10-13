@@ -118,6 +118,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/asiffahmadd/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/asiffahmadd/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/asiffahmadd/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/asiffahmadd/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/asiffahmadd/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/asiffahmadd/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Trie
@@ -157,6 +158,7 @@
 | [1096-brace-expansion-ii](https://github.com/asiffahmadd/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/asiffahmadd/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/asiffahmadd/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/asiffahmadd/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/asiffahmadd/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/asiffahmadd/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/asiffahmadd/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/asiffahmadd/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Minimax
 |  |
 | ------- |
